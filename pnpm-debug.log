@@ -1,0 +1,17 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": "/Users/syd/work/sefood/sefoodTracing"
+  },
+  "1 error pnpm": {
+    "message": {
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND"
+    },
+    "err": {
+      "name": "Error",
+      "message": "No package.json (or package.yaml, or package.json5) was found in \"/Users/syd/work/sefood/sefoodTracing\".",
+      "code": "ERR_PNPM_NO_IMPORTER_MANIFEST_FOUND",
+      "stack": "Error: No package.json (or package.yaml, or package.json5) was found in \"/Users/syd/work/sefood/sefoodTracing\".\n    at readImporterManifest (/Users/syd/.nvm/versions/node/v8.11.2/pnpm-global/2/node_modules/.registry.npmjs.org/pnpm/3.6.0/node_modules/pnpm/lib/node_modules/@pnpm/read-importer-manifest/lib/index.js:17:17)\n    at <anonymous>"
+    }
+  }
+}
